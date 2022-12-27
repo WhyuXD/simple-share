@@ -1,8 +1,8 @@
 # Simple Tools Share Post Facebook
->Login  
+>Login :  
 ``` - cookie + token EAAG```
 
->Command    
+>Command :    
 ```➠ rm -rf simple-share```    
 ```➠ git clone https://github.com/W4HYUXD/simple-share```  
 ```➠ cd simple-share```   
