@@ -6,6 +6,7 @@
 ```➠ rm -rf simple-share```    
 ```➠ git clone https://github.com/W4HYUXD/simple-share```  
 ```➠ cd simple-share```   
+```➠ git pull```  
 ```➠ ls (L Kecil)```    
 ```➠ python Run.py```   
 
