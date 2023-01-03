@@ -1,6 +1,7 @@
 # Simple Tools Share Post Facebook
 >Login :  
-``` - cookie + token EAAG```
+``` - cookie + token EAAG```   
+```(!) Dengan Tumbal Yang Sama```  
 
 >Command :    
 ```➠ rm -rf simple-share```    
