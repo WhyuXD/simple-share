@@ -9,7 +9,7 @@
 ```➠ cd simple-share```   
 ```➠ git pull```  
 ```➠ ls (L Kecil)```    
-```➠ python Run.py```   
+```➠ python main.py```   
 
 >   
 ***Laporkan Jika Ada Kesulitan Untuk Menjalankan Script Atau Jika Ada Bug***  
