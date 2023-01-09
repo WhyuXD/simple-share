@@ -15,7 +15,6 @@
 >   
 ***Laporkan Jika Ada Kesulitan Untuk Menjalankan Script Atau Jika Ada Bug***  
 >    
-***100% No Logger***
 # Contacts Me Via  
 [![WhatsApp Badge](https://img.shields.io/badge/-click-white?style=flat&logo=WhatsApp&logoColor=green&link=https://wa.me/6283132458199/)](https://wa.me/-6283132458199-green/) 
 
